@@ -5,15 +5,12 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import org.json.JSONObject;
-
 import io.branch.referral.Branch;
 
-public class MainActivity2 extends AppCompatActivity {
+public class DeeplinkActivity extends AppCompatActivity {
 
     TextView tv;
     Button btn;
